@@ -1,2 +1,2 @@
 # Hello-world-
-This is my first Github program,i learn how to create a new repository!
+This is my first Github program,i learning how to create a new repository!
